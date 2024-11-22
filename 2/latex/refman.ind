@@ -1,0 +1,37 @@
+\begin{theindex}
+
+  \item {cipher}, \hyperpage{7}
+    \subitem {decrypt}, \hyperpage{8}
+    \subitem {encrypt}, \hyperpage{8}
+    \subitem {getValidOpenText}, \hyperpage{9}
+    \subitem {isPlusKey}, \hyperpage{9}
+    \subitem {isValidKey}, \hyperpage{9}
+    \subitem {isValidText}, \hyperpage{10}
+  \item {cipher\_error}, \hyperpage{10}
+    \subitem {cipher\_error}, \hyperpage{11, 12}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {cipher}, \hyperpage{8}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {cipher}, \hyperpage{8}
+
+  \indexspace
+
+  \item {getValidOpenText}
+    \subitem {cipher}, \hyperpage{9}
+
+  \indexspace
+
+  \item {isPlusKey}
+    \subitem {cipher}, \hyperpage{9}
+  \item {isValidKey}
+    \subitem {cipher}, \hyperpage{9}
+  \item {isValidText}
+    \subitem {cipher}, \hyperpage{10}
+
+\end{theindex}
